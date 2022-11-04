@@ -8,7 +8,7 @@ function generateMarkdown(answers) {
 ## Description
 🔍 ${answers.description}
 ## Table of Contents
-- [Description](#description)ß
+- [Description](#description)
 - [Instruction](#instructions)
 - [Usage](#usage)
 - [License](#license)
