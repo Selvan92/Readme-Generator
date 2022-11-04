@@ -3,7 +3,7 @@
 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 ## Description
-🔍 Readme Generator using Node.js
+🔍 Readme Generator using node
 ## Table of Contents
 - [Description](#description)
 - [Instruction](#instructions)
@@ -13,19 +13,19 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Instruction
-💾 clone the repo and run in the terminal
+💾 Clone the repo and run in node terminal
 ## Usage
-💻 It is used to generate a professional readme file using the node.js, which helps in saving time
+💻 It is used to professional readme file using the terminal input, which saves time.
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
 This application is covered by the MIT license. 
 ## Contribution
-👪 The starter code is given from the triology education service
+👪 Started code is given from the Triology Education service
 ## Tests
-✏️ No test available at this stage
+✏️ No test at this time
 ## Questions
-✋ Contact me through email<br />
+✋ Contact me in email<br />
 <br />
 :octocat: Find me on GitHub: [Selvan92](https://github.com/Selvan92)<br />
 <br />
